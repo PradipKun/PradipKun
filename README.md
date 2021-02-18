@@ -8,9 +8,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... 
 - -- - 😄 Pronouns: ...
 -->
-Hello everyone it's me Pradip Kunwar
+ It's me Pradip Kunwar
 - 🔭 I’m currently working on html css
 - 🌱 I’m currently learning python basics
-- 📫 How to reach me: +9779813125888
-- Email me at: (pradipkunwar333@gmail.com) 
+- 📫 How to reach me: `+9779813125888`
+- Email me at: pradipkunwar333@gmail.com
 - ⚡ Fun fact: i love drawing
