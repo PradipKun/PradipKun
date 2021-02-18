@@ -10,8 +10,8 @@ Hello everyone it's me Pradip Kunwar
 - 🌱 I’m currently learning python basics
 - <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ... -->
+- 💬 Ask me about ... 
+- -- - 😄 Pronouns: ...-->
 - 📫 How to reach me: +9779813125888
-- [Email me at]: (pradipkunwar333@gmail.com) 
-<!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: i lpve drawing
+- Email me at: (pradipkunwar333@gmail.com) 
+- ⚡ Fun fact: i love drawing
