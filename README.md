@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 -->
  It's me Pradip Kunwar
 - 🔭 I’m currently working on html css and php
-- 🌱 I’m currently learning basic php 
-- 📫 How to reach me: `+9779813125888`
+- 🌱 I’m currently learning basic javascript and php
+- 📫 How to reach me: `+61433476996`
 - Ask me about : Basic C, Basic C++ 
 - Email me at: pradipkunwar333@gmail.com
 - ⚡ Fun fact: i love drawing
