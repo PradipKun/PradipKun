@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 - -- - 😄 Pronouns: ...
 -->
  It's me Pradip Kunwar
-- 🔭 I’m currently working on html css and php
-- 🌱 I’m currently learning basic javascript and php
+- 🔭 I’m currently working on html css and js
+- 🌱 I’m currently learning basic javascript
 - 📫 How to reach me: `+61433476996`
 - Ask me about : Basic C, Basic C++ 
 - Email me at: pradipkunwar333@gmail.com
